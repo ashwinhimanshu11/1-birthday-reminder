@@ -32,11 +32,5 @@ export default [
         name: 'Lora Gardner',
         age: 29,
         image: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg'
-    },
-
-    {
-        id: 6,
-        name: '6',
-        age: 6
     }
 ]
